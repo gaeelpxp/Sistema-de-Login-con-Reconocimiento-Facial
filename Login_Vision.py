@@ -250,3 +250,4 @@ def pantalla_principal():
     pantalla.mainloop()
 
 pantalla_principal()
+
